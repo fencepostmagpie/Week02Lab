@@ -1,0 +1,9 @@
+@media all {
+    body {
+        background-color: cyan;
+        color: red;
+    }
+    h3 {
+        font-style: italic;
+    }
+}
